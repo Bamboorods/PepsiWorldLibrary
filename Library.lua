@@ -474,7 +474,7 @@ local library = {
         hideKeybind = Enum.KeyCode.RightShift,
         smoothDragging = false,
         easingStyle = Enum.EasingStyle.Quad,
-        easingDirection = Enum.EasingDirection.Quint,
+        easingDirection = Enum.EasingDirection.In,
         libraryBackground = "rbxassetid://10980958764"
     },
     colors = {
